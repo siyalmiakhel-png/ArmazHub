@@ -9,7 +9,7 @@ local Camera = workspace.CurrentCamera
 local LOCK_ON_KEY = Enum.KeyCode.Q
 local MAX_DISTANCE = 100
 local SMOOTHNESS = 0.15 -- Lower = smoother/slower (less suspicious), Higher = snappier
-local JITTER_STRENGTH = 0.02 -- How much the mouse shakes/jitters
+local JITTER_STRENGTH = 0.05 -- How much the mouse shakes/jitters
 local isLocked = false
 
 local function getClosestPlayerHead()
