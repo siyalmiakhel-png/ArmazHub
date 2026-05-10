@@ -7,7 +7,7 @@ local Camera = workspace.CurrentCamera
 -- CONFIGURATION
 local MAX_DISTANCE = 100
 local SMOOTHNESS = 0.15 
-local JITTER_STRENGTH = 0.05 
+local JITTER_STRENGTH = 0.01
 
 local function getClosestPlayerHead()
     local closestHead = nil
