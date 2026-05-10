@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/siyalmiakhel-png/ArmazHub/main/Aimbot.Lua"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/siyalmiakhel-png/ArmazHub/main/Esp.Lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Armaz/ArmazHub/main/Aimbot.Lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Armaz/ArmazHub/main/Esp.Lua"))()
